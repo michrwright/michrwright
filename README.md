@@ -9,7 +9,7 @@ I'm AI-fluent at CPO level, and this profile is part of the proof. I would rathe
 ### What I'm building
 
 - **[Dex](https://github.com/michrwright/Dex)**: I run my practice on the open-source Dex framework and contribute back to it. On top I built a custom CRM, a relationship and pipeline engine that ranks contacts by priority and warmth, sweeps for follow-ups, and generates my daily briefings. I also built Hermes, a voice-first WhatsApp assistant that runs 24/7 on my own server, so I can capture notes and tasks into it by voice from my phone. I built what I needed and reused what I did not.
-- **[michellewright.me](https://github.com/michrwright/michrwright.github.io)**: my site, hand-built.
+- **[michellewright.me](https://github.com/michrwright/michrwright.github.io)**: my site, all about me and my thinking.
 - **[llama-banana-game](https://github.com/michrwright/llama-banana-game)**: a science game built for a year 4 class. The best briefs sometimes come from a nine-year-old.
 
 ### Where to find me
